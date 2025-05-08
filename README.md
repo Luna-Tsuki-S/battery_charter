@@ -4,5 +4,5 @@ git commend
 git init  
 git commit -m "commit"  
 git branch -M main  
-git remote add originhttps://github.com/Luna-Tsuki-S/battery_charter.git  
+git remote add origin https://github.com/Luna-Tsuki-S/battery_charter.git  
 git push -u origin main
